@@ -1,5 +1,5 @@
 applications:
 - name: first-sapcp-app
-  path: $(System.DefaultWorkingDirectory)/target/first-cf-application-0.0.1.jar
+  path: ./target/first-cf-application-0.0.1.jar
   buildpack: java_buildpack
   host: sample-sapcp
