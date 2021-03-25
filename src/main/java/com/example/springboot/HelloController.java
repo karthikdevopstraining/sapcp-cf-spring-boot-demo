@@ -8,7 +8,7 @@ public class HelloController {
 
 	@RequestMapping("/")
 	public String index() {
-		return "Greetings from Sahil Bawa! Subscribe, Like, Share!";
+		return "This is NJR SAP DEMO";
 	}
 
 }
