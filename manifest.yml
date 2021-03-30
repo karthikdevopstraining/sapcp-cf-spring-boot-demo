@@ -1,5 +1,5 @@
 applications:
 - name: first-sapcp-app
-  path: ./_SAP-CI/drop/first-cf-application-0.0.1.jar
+  path: ./drop/first-cf-application-0.0.1.jar
   buildpack: java_buildpack
   host: sample-sapcp
